@@ -1,5 +1,11 @@
 export default function Cabecalho() {
     return (
-        <h1>Cabeçalho</h1>
+        <header>
+            <img src="" alt="Logo Alura Space" />
+            <div>
+                <input type="text" placeholder="O que você procura?" />
+                <img src="" alt="Ícone de lupa" />
+            </div>
+        </header>
     )
 }
