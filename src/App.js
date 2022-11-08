@@ -1,7 +1,9 @@
+import PaginaInicial from "./pages/PaginaInicial";
+
 export default function App() {
   return (
     <div className="App">
-      <h1>Alura Space</h1>
+      <PaginaInicial />
     </div>
   );
 }
