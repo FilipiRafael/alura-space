@@ -3,6 +3,7 @@ import Menu from "../../components/Menu";
 import banner from "../../assets/banner.png";
 import styles from "./PaginaInicial.module.scss";
 import Rodape from "../../components/Rodape";
+import Galeria from "../../components/Galeria";
 
 export default function PaginaInicial() {
     return (
@@ -17,6 +18,9 @@ export default function PaginaInicial() {
                     </div>
                 </section>
             </main>
+            <div className={styles.galeria}>
+                <Galeria />
+            </div>
             <Rodape />
         </>
     )
