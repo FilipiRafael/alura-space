@@ -31,7 +31,7 @@ O projeto tem o objetivo final de ser uma galeria de imagens com filtro.
 | :fire: Desafio     | https://github.com/FilipiRafael/alura-space
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://raw.githubusercontent.com/FilipiRafael/cambly-ui-clone/main/public/images/light-screenshot.png#vitrinedev)
+![](https://raw.githubusercontent.com/FilipiRafael/alura-space/main/public/assets/imagens/screenshot.png#vitrinedev)
 
 ## Detalhes do projeto
 
